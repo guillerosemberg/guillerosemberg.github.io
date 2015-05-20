@@ -1,4 +1,6 @@
-- Buscar licencia que permita reproducir el contenido sin modificarlo y citando de donde proviene (el sitio)
+- Agregar analytics al sitio
+- Licencia que permita reproducir el contenido sin modificarlo y citando de donde proviene (el sitio) (sino escribirla a mano en el sitio)
+- Favicon
 - Espacio para subir trabajos de investigación que refieran a la obra de tobías. Identico a sección Obra.
 - Selector de idioma del sitio
 - Nosotros > Objetivos: nombrar universidad, que lo usan en tal cátedra, tal materia, javi como investigador, etc, darle protagonismo a guille
